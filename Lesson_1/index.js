@@ -58,7 +58,7 @@ function transformData(a) {
 
 
     return a.mark > 5 ;
-    
+
 
 }
 console.log(transformData(a));
