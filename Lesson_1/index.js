@@ -1,68 +1,62 @@
 /// 1 ///
 
 function makeGreetings(age) {
-    var txt;
-    count = age % 100;
-    if (count >= 5 && count <= 20) {
-        txt = 'лет';
-    } else {
-        count = count % 10;
-        if (count == 1) {
-            txt = 'год';
-        } else if (count >= 2 && count <= 4) {
-            txt = 'года';
-        } else {
-            txt = 'лет';
-        }
+    var word = 'лет';
+
+    if (age % 100 > 10 && age % 100 < 15) {
+        word = 'лет'
+    } else if (age % 10 === 1) {
+        word = 'год'
+    } else if (age % 10 > 1 && age % 10 < 5) {
+        word = 'года'
     }
-    return txt;
+    return ('Мой возраст' + age + '' + word);
 }
-alert('Мой возраст 21 ' + makeGreetings(21));
 
 /// 2 ///
 
-function splitArray (arr, size) {
-    arr = [1, 4, 5, 6, 2];
-    size= 2;
-    return arr.map((x, i) => i % size == 0 && arr.slice(i, i + size)).filter(x => x)
+function splitArray (arr, num) {
+    var result =[];
+    if (Array.isArray(arr) || !num || num <1 ){
+        return result
+    }
+    for (var i = 0; i < arr.length; i +=num){
+        result.push(arr.slice(i, i + num));
+    }
 }
 
 /// 3 ///
 
-var result1 = add(2)(3);
-var result2 = add(4)(-1);
-
-function add(x,y) {
-    if (typeof y === 'undefined') {
-        return function(y) {
-            return x + y;
-        }
+function add(a) {
+    return function (b) {
+        return a + b;
     }
 }
 
 /// 4 ///
 
 function transformData (data){
-    var newObj = {};
-    data.forEach(function(elem){
-        if(!elem.mark || elem.mark <= 5) return;
-        newObj[elem.login] = elem.firstName +' '+ elem.lastName;
-    });
-    return newObj;
+   var result = {};
+   for ( var i = 0; i < data.length; i +=1){
+       if (data[i].mark > 5){
+           result[data[i].login] = (data[i].firstName + '' + data[i].lastName).trim();
+       }
+   }
+   return result;
 }
 
 /// 5 ///
 
-function addInfinite(x) {
-    return function(y) {
-        if (typeof y !== 'undefined') {
-            x = x + y;
-            return arguments.callee;
-        } else {
-            return x;
-        }
-    };
+function addInfinite(a) {
+    function inner(b) {
+        inner.result += b;
+        return inner;
+    }
+    inner.result = a;
+    return inner;
 }
+
+
 
 
 
