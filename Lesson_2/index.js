@@ -12,11 +12,8 @@ function removeKeys(a, b) {
     }
     return obj;
 }
-// console.log(removeKeys({ a: 1, b: [], c: '' }, ['a', 'c']));
 
 /// 2 ///
-
-// var ar = ([[1,"a",()=>{}],[{}, 2, 3],[null, -3, 'q']]);
 
 var arr2 = ar.map(function ( num){
     return num.filter(function(number) {
@@ -26,8 +23,6 @@ var arr2 = ar.map(function ( num){
 });
 
 /// 3 ///
-
-// var result = reverse('123', '456');
 
 function reverse() {
     var args = Array.prototype.slice.call(arguments, reverse.length);
