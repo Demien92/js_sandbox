@@ -15,7 +15,7 @@ function removeKeys(a, b) {
 
 /// 2 ///
 
-var arr2 = arr3.map(function ( num){
+var arr2 = ar.map(function ( num){
     return num.filter(function(number) {
         return typeof number === 'number'
     });
