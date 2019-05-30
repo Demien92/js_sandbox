@@ -1,21 +1,23 @@
 // 1
 function func4(arr) {
-    const result = [];
-    let max = -Infinity;
+    let max = - Infinity;
+    for (let i = 0; i < arr.length; i += 1){
+        for (let k = 1; k < arr.length -i; k += 1) {
 
-    for (let i = 0; i < arr.length; i+=1) {
-        max < arr[i] ? max = arr[i] : null;
+            let sum = 0;
 
-        if (arr[i] < max) {
-            result.push(max + arr[i]);
-        } else {
-            result.push(max + arr[i+1]);
+            for (let j = 0; j <= k; j += 1) {
+                sum += arr[i + j];
+            }
+
+            if (sum > max) {
+                max = sum
+
+            }
+            return max;
         }
     }
-
-    return result.filter(el => el).reduce((sum, item) => sum > item ? sum : item);
 }
-
 // 2
 const result = [];
 
@@ -34,6 +36,7 @@ function mask(value) {
         return value.split('').join(' ').split(' ').reduce((sum, item) => sum.length < value.length - 4 ? sum + '*' : sum + item, '');
     }
 }
+
 
 // 4
 function add(a = 0) {
