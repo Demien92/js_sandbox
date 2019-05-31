@@ -1,33 +1,15 @@
-function setStyle(args, {x, y}) {
-    for (let key in args) {
-        args[key].style.transform =`rotate(${57 * atang(x, y)}deg)`;
-    }
-}
+const  eyeBall1 = document.getElementById('eyeball1');
+const  eyeBall2 = document.getElementById('eyeball2');
 
-function handler(e) {
-    const objectElement = {
-        eyeLeft: document.querySelector('.eye-left'),
-        eyeRight: document.querySelector('.eye-right'),
-    };
+window.addEventListener('mousemove',(event) => {
+    const dx = event.x - window.innerWidth / 2;
+    const absX = dx / window.innerWidth / 2;
 
-    const position = {
-        x: e.clientX - objectElement.eyeLeft.getBoundingClientRect().left - 65,
-        y: e.clientY - objectElement.eyeRight.getBoundingClientRect().top - 65,
-    };
+    const dy = event.y - window.innerHeight / 2;
+    const absY = dy / window.innerHeight / 2;
 
-    setStyle(objectElement, position);
-}
+    const transform = `translate(${absX *20}px, ${absY * 20}px)`;
 
-function atang(x, y) {
-    switch (true) {
-        case x > 0 && y > 0:
-        case x < 0  && y > 0:
-            return Math.PI / 2 - Math.atan(x / y);
-        case x < 0 && y < 0:
-            return Math.PI + Math.atan(y / x);
-        default:
-            return 3 * Math.PI / 2 + Math.abs(Math.atan(x / y));
-    }
-}
-
-window.addEventListener('mousemove', handler);
+    eyeBall1.style.transform = transform;
+    eyeBall2.style.transform = transform;
+});
