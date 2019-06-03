@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.work {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-flow: column;
+}
+
+#generate, #check {
+  text-align: center;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  border-radius: 3px;
+  width: 150px;
+  padding: 5px 0;
+  font-size: 20px;
+  cursor: pointer;
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  transition: all 250ms linear;
+}
+#generate:hover, #check:hover {
+  background-image: linear-gradient(to right top, #a8eb12, #00bf72, #008793, #004d7a, #051937);
+}
+
+#popup, #popupCheck {
+  height: 100vh;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: none;
+  position: absolute;
+}
+#popup .block-popup, #popupCheck .block-popup {
+  z-index: 10;
+  position: absolute;
+  left: calc(50% - 200px);
+  top: calc(50% - 100px);
+  background: #fff;
+  border: 1px solid #000;
+  width: 400px;
+  height: 200px;
+  text-align: center;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#popupEmail, #popupTypes {
+  font-size: 30px;
+}
+
+#close, #closeCheck {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: white;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid black;
+  text-align: center;
+  line-height: 20px;
+}
+
+#close:hover, #check:hover, #closeCheck, #generate:hover {
+  cursor: pointer;
+}
+
+#validate, #format {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  text-align: center;
+  margin: 50px auto;
+  align-items: center;
+}
+#validate input, #format input {
+  border-radius: 3px;
+  height: 30px;
+  padding: 0 10px;
+  outline: none;
+  border: 1px solid #000;
+}
+
+/*# sourceMappingURL=/lesson_6.80ee2152.css.map */
