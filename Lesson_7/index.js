@@ -33,12 +33,13 @@
 //
 // window.sum1 = sum1;
 // window.obj = obj;
+//
+//
+// const div = document.getElementById('num');
+// let count = 0;
+// function onScroll(){
+//     div.innerHTML = count++;
+//
+// }
+// window.addEventListener('scroll', onScroll);
 
-
-const div = document.getElementById('num');
-let count = 0;
-function onScroll(){
-    div.innerHTML = count++;
-
-}
-window.addEventListener('scroll', onScroll);
