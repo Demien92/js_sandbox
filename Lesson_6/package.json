@@ -9,7 +9,6 @@
     "build": "rm -rf ../dist && parcel build ./index.html --public-url  /js_sanbox",
     "deploy": "../node_modules/.bin/gh-pages -d dist"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Demien92/js_sandbox.git"
@@ -24,7 +23,6 @@
     "camelcase": "^5.3.1",
     "email-validator": "^2.0.4",
     "format-validator": "^0.9.0",
-
     "random-email": "^1.0.3"
   },
   "devDependencies": {
