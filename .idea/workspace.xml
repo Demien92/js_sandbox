@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf783980-5b2d-4a6d-a8ae-c0d937da2565" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_7/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,10 +27,57 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="79" lean-forward="true" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+            <state relative-caret-position="136">
+              <caret line="8" column="97" selection-start-line="8" selection-start-column="97" selection-end-line="8" selection-end-column="97" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/main.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson_7/main.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson_7/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson_7/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson_7/index.scss">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -82,6 +137,10 @@
         <option value="$PROJECT_DIR$/Lesson_6/index.js" />
         <option value="$PROJECT_DIR$/Lesson_6/index.html" />
         <option value="$PROJECT_DIR$/Lesson_6/index.scss" />
+        <option value="$PROJECT_DIR$/Lesson_7/index.js" />
+        <option value="$PROJECT_DIR$/Lesson_7/index.scss" />
+        <option value="$PROJECT_DIR$/Lesson_7/index.html" />
+        <option value="$PROJECT_DIR$/module/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
@@ -115,6 +174,16 @@
               <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,7 +244,7 @@
       <workItem from="1559577700657" duration="8312000" />
       <workItem from="1559586064951" duration="62000" />
       <workItem from="1559586232282" duration="820000" />
-      <workItem from="1559663373659" duration="150000" />
+      <workItem from="1559663373659" duration="3484000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1557405658927</created>
@@ -352,11 +421,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559585784478</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="commit">
+      <created>1559663557015</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1559663557015</updated>
+    </task>
+    <task id="LOCAL-00027" summary="commit">
+      <created>1559664020870</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1559664020870</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65982000" />
+    <option name="totallyTimeSpent" value="69316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -551,13 +634,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_6/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -588,6 +664,9 @@
     <entry file="file://$PROJECT_DIR$/Lesson_6/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_6/index.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_6/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -595,11 +674,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_6/index.scss" />
+    <entry file="file://$PROJECT_DIR$/Lesson_7/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_7/index.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_7/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acron-tech-frontend/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="79" lean-forward="true" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+        <state relative-caret-position="136">
+          <caret line="8" column="97" selection-start-line="8" selection-start-column="97" selection-end-line="8" selection-end-column="97" />
         </state>
       </provider>
     </entry>

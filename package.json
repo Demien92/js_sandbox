@@ -1,12 +1,12 @@
 {
-  "name": "lessons",
+  "name": "lesson",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel",
-    "build": "rm -rf dist && parcel build ./lesson_6/index.html --public-url  /js_sanbox",
+    "build": "rm -rf dist && parcel build ./lesson_6/index.html --public-url  /js_sanbox/lesson_6",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
@@ -23,11 +23,12 @@
     "camelcase": "^5.3.1",
     "email-validator": "^2.0.4",
     "format-validator": "^0.9.0",
-    "gh-pages": "^2.0.1",
-    "parcel": "^1.12.3",
+
     "random-email": "^1.0.3"
   },
   "devDependencies": {
-    "sass": "^1.20.3"
+    "sass": "^1.20.3",
+    "gh-pages": "^2.0.1",
+    "parcel": "^1.12.3"
   }
 }
