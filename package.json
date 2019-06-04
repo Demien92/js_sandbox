@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel ",
-    "build": "rm-rf dist && parcel build ./index.html--public-url  /js_sanbox",
+    "start": "parcel",
+    "build": "rm -rf dist && parcel build ./lesson_6/index.html --public-url  /js_sanbox",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
