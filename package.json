@@ -9,6 +9,7 @@
     "build": "rm -rf dist && parcel build ./lesson_6/index.html --public-url  /js_sanbox/lesson_6",
     "deploy": "gh-pages -d dist"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Demien92/js_sandbox.git"
