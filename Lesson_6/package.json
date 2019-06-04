@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel",
-    "build": "rm -rf dist && parcel build ./lesson_6/index.html --public-url  /js_sanbox/lesson_6",
-    "deploy": "gh-pages -d dist"
+    "start": "parcel ./index.html",
+    "build": "rm -rf ../dist && parcel build ./index.html --public-url  /js_sanbox",
+    "deploy": "../node_modules/.bin/gh-pages -d dist"
   },
-  
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Demien92/js_sandbox.git"
