@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf783980-5b2d-4a6d-a8ae-c0d937da2565" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Lesson_7/image/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_7/image/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_7/image/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_7/image/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_7/image/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_7/index.css" afterDir="false" />
+    <list default="true" id="bf783980-5b2d-4a6d-a8ae-c0d937da2565" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/module_1/cat.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_3/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_3/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_4/second.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_4/second.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_6/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_6/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_7/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_7/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_7/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_7/color.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_7/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_7/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/mask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,100 +23,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_7/color.js">
+        <entry file="file://$PROJECT_DIR$/module_1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module_1/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson_7/index.html">
+        <entry file="file://$PROJECT_DIR$/module_1/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="17">
+              <caret line="61" column="2" lean-forward="true" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_7/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="97" column="1" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_4/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_4/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="101" column="3" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_4/part_3.js">
+        <entry file="file://$PROJECT_DIR$/module_1/mask.js">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_4/second.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
-              <folding>
-                <element signature="n#!!block;n#print#1" />
-                <element signature="n#!!block;n#upper#0" />
-                <element signature="n#!!block;n#lover#0" />
-                <element signature="n#!!block;n#print2#0" />
-                <element signature="e#2636#2684#0" />
-                <element signature="n#!!block;n#calculate#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_5/addon.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_5/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_5/node.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -140,9 +68,13 @@
       <find>check</find>
       <find>randomEmail</find>
       <find>control</find>
+      <find>cum</find>
+      <find>top</find>
     </findStrings>
     <dirStrings>
+      <dir>D:\РОБОТА\project\js_sandbox</dir>
       <dir>D:\РОБОТА\project\js_sandbox\Lesson_4</dir>
+      <dir>D:\РОБОТА\project\js_sandbox\Lesson_3</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -186,7 +118,6 @@
         <option value="$PROJECT_DIR$/Lesson_6/index.html" />
         <option value="$PROJECT_DIR$/Lesson_6/index.scss" />
         <option value="$PROJECT_DIR$/Lesson_6/index.js" />
-        <option value="$PROJECT_DIR$/module_1/index.html" />
         <option value="$PROJECT_DIR$/module_1/package.json" />
         <option value="$PROJECT_DIR$/Lesson_7/main.js" />
         <option value="$PROJECT_DIR$/Lesson_6/package.json" />
@@ -198,6 +129,9 @@
         <option value="$PROJECT_DIR$/Lesson_7/index.js" />
         <option value="$PROJECT_DIR$/Lesson_7/color.js" />
         <option value="$PROJECT_DIR$/Lesson_7/index.html" />
+        <option value="$PROJECT_DIR$/module_1/index.html" />
+        <option value="$PROJECT_DIR$/module_1/index.css" />
+        <option value="$PROJECT_DIR$/module_1/index.js" />
       </list>
     </option>
   </component>
@@ -219,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,12 +163,27 @@
             <path>
               <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_6" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_7" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
@@ -246,24 +194,26 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lesson_7/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\РОБОТА\project\js_sandbox\Lesson_6" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\РОБОТА\project\js_sandbox\module_1" />
       <recent name="D:\РОБОТА\project\js_sandbox\Lesson_7\image" />
       <recent name="D:\РОБОТА\project\js_sandbox" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\РОБОТА\project\js_sandbox\Lesson_6" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -307,7 +257,8 @@
       <workItem from="1559663373659" duration="6569000" />
       <workItem from="1559670073589" duration="3817000" />
       <workItem from="1560092511051" duration="4268000" />
-      <workItem from="1560192089372" duration="1049000" />
+      <workItem from="1560192089372" duration="1376000" />
+      <workItem from="1560268551286" duration="10891000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1557405658927</created>
@@ -554,21 +505,28 @@
       <option name="project" value="LOCAL" />
       <updated>1559674379632</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="commit">
+      <created>1560193287577</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1560193287577</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81535000" />
+    <option name="totallyTimeSpent" value="92753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3261745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33087248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -576,7 +534,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.29461756" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4986577" visible="true" weight="0.27620396" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4986577" weight="0.2733711" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013423" side_tool="true" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -652,24 +610,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson_2/test2" />
-    <entry file="file://$PROJECT_DIR$/Lesson_2/test" />
-    <entry file="file://E:/index.js" />
     <entry file="file://$PROJECT_DIR$/Lesson_3/text" />
     <entry file="file://$PROJECT_DIR$/Lesson_4/text" />
-    <entry file="file://$PROJECT_DIR$/Lesson_2/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_1/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_1/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/index.js" />
     <entry file="file://$PROJECT_DIR$/Lesson_6/node.js" />
     <entry file="file://$PROJECT_DIR$/Lesson_6/addon.js" />
@@ -686,9 +628,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../acron-tech-frontend/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_1/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json" />
@@ -730,20 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module_1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_1/index.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_6/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_1/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_7/main.js">
@@ -802,33 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_2/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!block;n#join#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_3/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="224" lean-forward="true" selection-start-line="224" selection-end-line="224" />
-          <folding>
-            <element signature="n#Human#0" />
-            <element signature="n#AlevelStudent#0" />
-            <element signature="n#Calculator#0" />
-            <element signature="n#Point#0" />
-            <element signature="n#Line#0" />
-            <element signature="n#WeightedPoint#0" />
-            <element signature="n#CalculatorExtended#0" />
-            <element signature="n#!!block;n#withUniqueID#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_4/eye.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -846,20 +745,24 @@
     <entry file="file://$PROJECT_DIR$/Lesson_4/index.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_7/color.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_7/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="1" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_4/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_4/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="101" column="3" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,14 +771,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_4/second.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="442">
           <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
           <folding>
-            <element signature="n#!!block;n#print#1" />
             <element signature="n#!!block;n#upper#0" />
             <element signature="n#!!block;n#lover#0" />
             <element signature="n#!!block;n#print2#0" />
-            <element signature="e#2636#2684#0" />
             <element signature="n#!!block;n#calculate#0" />
           </folding>
         </state>
@@ -883,15 +784,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_5/addon.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
+        <state relative-caret-position="1105">
           <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_5/node.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -902,17 +796,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_7/index.js">
+    <entry file="file://$PROJECT_DIR$/Lesson_5/node.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="97" column="1" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_7/color.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -920,6 +807,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_1/index.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_4/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="101" column="3" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_1/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_2/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_3/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_3/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2795">
+          <caret line="224" lean-forward="true" selection-start-line="224" selection-end-line="224" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_1/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_1/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_1/mask.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_1/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_2/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_1/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="61" column="2" lean-forward="true" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
         </state>
       </provider>
     </entry>
