@@ -64,3 +64,5 @@ alwaysReject()
     .then(() => console.log("222 222 222"))
     .catch(() => console.log("no no no"))
     .then(() => console.log("after"));
+
+
