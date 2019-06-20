@@ -1,0 +1,93 @@
+body{
+     margin: 0;
+     outline: none;
+     box-sizing: border-box;
+ }
+
+.block_wrapper{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border: 1px solid blue;
+    border-radius: 5px;
+    position: absolute;
+    left: calc(50% - 205px);
+    top: 20px;
+    padding: 5px;
+    width: 410px;
+    justify-content: space-between;
+
+}
+
+.block_Converter{
+    width: 200px;
+    display: flex;
+    flex-flow: column;
+
+}
+
+p{
+    margin:  0 0 20px 0;
+    padding-right: 5px;
+    font-size: 11px;
+}
+
+.label_block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title{
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+
+select{
+    border-radius: 3px;
+    border: 1px solid blue;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.btn_blue{
+    border: 1px solid blue;
+    color: blue;
+    transition: 0.5s;
+    background: transparent;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    outline: none;
+}
+
+.btn_blue:hover{
+    background: blue;
+    color: #fff;
+}
+.label_wrapper{
+    display: flex;
+    flex-flow: column;
+    position: relative;
+}
+.error{
+    position: absolute;
+    font-size: 10px;
+    left: 0;
+    bottom: 8px;
+    color: red;
+}
+
+input{
+    margin-bottom: 20px;
+    border-radius: 3px;
+    border: 1px solid blue;
+    outline: none;
+    padding: 0 5px;
+}
+
+.block_history{
+    display: flex;
+    flex-flow: column;
+    width: 200px;
+}

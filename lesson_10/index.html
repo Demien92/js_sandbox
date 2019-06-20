@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="language" content="ru">
+    <title>lesson_9</title>
+    <link rel="stylesheet" href="./index.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div class="block_wrapper">
+    <div class="block_Converter">
+        <span class="title">Converter</span>
+        <select  id="select_converter_1">
+            <option value="GBP">GBP</option>
+            <option value="USD">USD</option>
+            <option value="EUR">EUR</option>
+        </select>
+        <select  id="select_converter_2">
+            <option value="GBP">GBP</option>
+            <option value="USD">USD</option>
+            <option value="EUR">EUR</option>
+        </select>
+        <button class="btn_blue" id="calc">Calc</button>
+        <div class="label_wrapper">
+            <input type="number" id="input_res" placeholder="введите значение"></input>
+            <div class="error" id="error"></div>
+        </div>
+    </div>
+
+    <div id="history" class="block_history">
+        <span class="title">History</span>
+        <select id="select_history_1">
+            <option value="GBP">GBP</option>
+            <option value="USD">USD</option>
+            <option value="EUR">EUR</option>
+        </select>
+        <select id="select_history_2">
+            <option value="GBP">GBP</option>
+            <option value="USD">USD</option>
+            <option value="EUR">EUR</option>
+        </select>
+        <div class="label_block">
+            <p>From</p>
+            <input type="date" id="start" name="trip-start" value="2000-07-22" min="1990-01-01" max="2019-06-20">
+
+        </div>
+        <div class="label_block">
+            <p>To</p>
+            <input type="date" id="end" name="trip-start" value="2018-06-21" min="2015-01-01" max="2019-06-20">
+        </div>
+
+
+        <button id="res_date" class="btn_blue">history</button>
+        <div id="error1"></div>
+        <div id="show_res_date" >Result info</div>
+
+    </div>
+</div>
+
+
+<script src="index.js"></script>
+</body>
+</html>
+
