@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+body >div{
+    padding: 20px;
+    width: 500px;
+    box-sizing: border-box;
+    background: #b0c0a8;
+}
+
+div{
+    font-size: 15px;
+    padding: 10px 0;
+}
+
+input{
+    border-radius: 3px;
+    width: 200px;
+    border: 1px solid blue;
+    outline: none;
+    padding: 0 10px;
+    height: 30px;
+}
+
+button {
+    border: 1px solid blue;
+    border-radius: 3px;
+    color: blue;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+    outline: none;
+    height: 30px;
+}
+
+button:hover {
+    background: blue;
+    color: #fff;
+}
