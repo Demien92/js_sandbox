@@ -1,12 +1,10 @@
 ///1
 var matrixDiff = function matrixDiff(arr1, arr2) {
     var sum = 0;
-
     for (var i = 0; i < arr1.length; i += 1) {
         if (arr1[i].length !== arr2[i].length) {
             return NaN;
         }
-
         for (var j = 0; j < arr1[i].length; i += 1) {
             sum += Math.abs(arr1[i][j] - arr2[i][j]);
         }
@@ -14,7 +12,7 @@ var matrixDiff = function matrixDiff(arr1, arr2) {
 };
 
 window.matrixDiff = matrixDiff;
-/////2
+///2
 
 function strangeSearch(stringArr){
     let div = [];
@@ -62,9 +60,9 @@ function strangeSearch(stringArr){
 }
 window.strangeSearch = strangeSearch;
 
-////3
+///3
 
-/////4
+///4
 function grab(e) {
     const img = document.querySelector('img');
     img.style.top = e.y + 'px';
