@@ -1,86 +1,91 @@
 ///1
-const matrixDiff = (arr, arr1) => {
-    let res = 0;
-    for (let i = 0; i < arr.length && arr1.length; i+=1) {
-        for (let j = 0; j < arr[i].length && arr1[i].length; j+=1) {
-            const a = arr[i][j];
-            const b = arr1[i][j];
+var matrixDiff = function matrixDiff(arr1, arr2) {
+    var sum = 0;
 
-            if (a - b === 0) {
-                continue;
-            } else {
-                res += Math.abs(a - b);
+    for (var i = 0; i < arr1.length; i += 1) {
+        if (arr1[i].length !== arr2[i].length) {
+            return NaN;
+        }
+
+        for (var j = 0; j < arr1[i].length; i += 1) {
+            sum += Math.abs(arr1[i][j] - arr2[i][j]);
+        }
+    }
+};
+
+window.matrixDiff = matrixDiff;
+/////2
+
+function strangeSearch(stringArr){
+    let div = [];
+    let input = [];
+    let str;
+    let num;
+    let link = "https://www.youtube.com/results?search_query=";
+    const form = document.createElement("form");
+    document.body.append(form);
+    form.method = "link";
+    for(let i = 0; i < stringArr.length; i += 1){
+        div[i] = document.createElement("div");
+        form.append(div[i]);
+        div[i].innerHTML = `${stringArr[i]}`;
+        input[i] = document.createElement("input");
+        form.append(input[i]);
+        input[i].type = "number";
+        input[i].value = 0;
+    }
+    const button = document.createElement("button");
+    document.body.append(button);
+    button.innerHTML = "Search";
+    button.id = "go";
+    button.type = "button";
+    button.addEventListener("click", () => {
+        for(let k = 0; k < stringArr.length - 1; k +=1){
+            for(let j = 0; j < stringArr.length - 1; j += 1){
+                if (input[j].value > input[j+1].value){
+                    str = stringArr[j];
+                    stringArr[j] = stringArr[j+1];
+                    stringArr[j+1] = str;
+                    num = input[j].value;
+                    input[j].value = input[j+1].value;
+                    input[j+1].value = num;
+                }
             }
         }
-    }
-    return res;
-};
-//2
-function strangeSearch(arr) {
-    if(!Array.isArray(arr)) return;
-    arr.forEach(function (elem) {
-        var label = document.createElement('label');
-        var div = document.createElement('div');
-        var input = document.createElement('input');
-        input.type = 'number';
-        input.value = '0';
-        input.name = elem;
-        div.innerHTML = elem;
-        label.appendChild(div);
-        label.appendChild(input);
-        document.body.appendChild(label);
-    });
-    var button = document.createElement("button");
-    button.id = 'go';
-    button.innerHTML = 'Search';
-    button.addEventListener("click", changeLocation);
-    document.body.appendChild(button);
-    
+        for (let m = 0; m < stringArr.length; m += 1){
+            if(input[m].value != 0){
+                link += stringArr[m] + "+";
+            }
+        }
+        window.location.href = link;
+    })
 }
-function changeLocation() {
-    var url = 'https://www.youtube.com/results?search_quert=';
-    var inputs = document.getElementsByTagName('input');
-    inputs = Array.prototype.slice.call(input);
-    var newArr = inputs.sort{function (a, b) {
-        if (a.value > b.value){
-            return 1;
-        }
-        if ( a.value < b.value){
-            return -1;
-        }
-        return 0;
-    }}
-    for (var index = 0; index, newArr.length; ++index){
-        if(newArr [index].value !== '0'){
-            if(index!==0) url += '+';
-            url += newArr[index].name
-        }
-    }
-    window.location.href=url;
-}
+window.strangeSearch = strangeSearch;
+
+////3
 
 /////4
-/function grab(e) {
-const img = document.querySelector('img');
-img.style.top = e.y + 'px';
-img.style.left = e.x + 'px';
-}
+function grab(e) {
+    const img = document.querySelector('img');
+    img.style.top = e.y + 'px';
+    img.style.left = e.x + 'px';
 
-function stickyСat() {
-    const img = document.createElement('img');
-    img.src = imgSrc;
-    img.width = 50;
-    img.height = 50;
-    document.body.append(img);
+    function stickyСat() {
+        const img = document.createElement('img');
+        img.src = imgSrc;
+        img.width = 50;
+        img.height = 50;
+        document.body.append(img);
 
-    window.addEventListener('mousemove', grab);
-}
-
-function unstickTheСat() {
-    const imgs = document.querySelectorAll('img');
-    for (let val of imgs) {
-        val.remove();
+        window.addEventListener('mousemove', grab);
     }
 
-    window.removeEventListener('mousemove', grab);
+    function unstickTheСat() {
+        const imgs = document.querySelectorAll('img');
+        for (let val of imgs) {
+            val.remove();
+        }
+
+        window.removeEventListener('mousemove', grab);
+    }
 }
