@@ -1,9 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf783980-5b2d-4a6d-a8ae-c0d937da2565" name="Default Changelist" comment="">
+    <list default="true" id="bf783980-5b2d-4a6d-a8ae-c0d937da2565" name="Default Changelist" comment="commit">
+      <change afterPath="$PROJECT_DIR$/Lesson_12/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_12/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_13/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_13/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_13/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_13/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_14/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_14/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_14/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_14/timer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_14/wrapinemoji.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/accelerometer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/array-find.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/audiotracks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/autofocus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/auxclick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/battery-status.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/beforeafterprint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/broadcastchannel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/chacha20-poly1305.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/clear-site-data-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/console-time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-apply-rule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-backgroundblendmode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-boxshadow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-conic-gradients.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-containment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-counters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-filter-function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-fixed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-image-orientation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-logical-props.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-media-resolution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-motion-paths.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-optional-pseudo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-overflow-anchor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-paged-media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-placeholder-shown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-placeholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-reflections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-scrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-snappoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-subgrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-supports-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-text-indent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-text-orientation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css-touch-action-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css3-colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css3-cursors-grab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/css3-tabsize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/currentcolor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/custom-elements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/devicepixelratio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/document-currentscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/document-scrollingelement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/documenthead.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/domcontentloaded.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/flac.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/getelementsbyclassname.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/hashchange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/high-resolution-time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/imagecapture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/indexeddb2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/input-color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/input-email-tel-url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/input-range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/input-selection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/jpeg2000.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/link-rel-prerender.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/magnetometer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/matchesselector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/mathml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/media-session-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/mediarecorder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/meter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/minmaxwh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/mutationobserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/namevalue-storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/notifications.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/object-entries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/object-observe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/ogv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/once-event-listener.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/online-status.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/opus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/pagevisibility.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/permissions-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/pointerlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/prefers-reduced-motion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/registerprotocolhandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/rellist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/requestanimationframe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/resource-timing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/rest-parameters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/script-defer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/sdch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/shadowdom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/sharedarraybuffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/sql-storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/stopimmediatepropagation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/svg-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/svg-filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/svg-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/text-decoration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/text-stroke.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/transforms3d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/use-strict.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/vibration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/videotracks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/viewport-units.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/webp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/webvr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/will-change.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/wordwrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/features/xhr2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/regions/AM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/regions/CZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/regions/EG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/regions/PT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/regions/SB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/node_modules/caniuse-lite/data/regions/TN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/src/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/src/size.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_12/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_12/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_12/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_12/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_12/src/bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_12/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_12/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_12/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_12/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_12/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,67 +160,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_12/package.json">
+        <entry file="file://$PROJECT_DIR$/Lesson_13/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            <state relative-caret-position="68">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module_1/index.js">
+        <entry file="file://$PROJECT_DIR$/Lesson_14/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module_1/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_10/dist/lesson_9.e31bb0bc.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1176">
-              <caret line="148" column="33" lean-forward="true" selection-start-line="148" selection-start-column="33" selection-end-line="148" selection-end-column="33" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_9/dist/lesson_9.e31bb0bc.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2811">
-              <caret line="121" selection-start-line="121" selection-end-line="135" selection-end-column="31" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            <state relative-caret-position="238">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -86,27 +181,73 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module_1/mask.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_9/main.js">
+        <entry file="file://$PROJECT_DIR$/Lesson_14/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="392">
+              <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_10/index.css">
+        <entry file="file://$PROJECT_DIR$/Lesson_14/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="55" column="21" selection-start-line="55" selection-end-line="56" />
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson_14/wrapinemoji.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson_14/timer.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson_12/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson_12/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson_14/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson_13/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -115,9 +256,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ar</find>
-      <find>*</find>
-      <find>print</find>
       <find>\n</find>
       <find>print2</find>
       <find>mas</find>
@@ -145,11 +283,18 @@
       <find>matrixDiff</find>
       <find>strangeSearch</find>
       <find>stickyСat</find>
+      <find>index.</find>
+      <find>close</find>
+      <find>bottom</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>D:\РОБОТА\project\js_sandbox\Lesson_4</dir>
       <dir>D:\РОБОТА\project\js_sandbox\Lesson_3</dir>
       <dir>D:\РОБОТА\project\js_sandbox</dir>
+      <dir>D:\РОБОТА\project\js_sandbox\lessons\src</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -164,23 +309,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lesson_4/eye.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Lesson_5/index.html" />
-        <option value="$PROJECT_DIR$/Lesson_6/main.js" />
-        <option value="$PROJECT_DIR$/Lesson_7/index.scss" />
-        <option value="$PROJECT_DIR$/module/index.html" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/Lesson_6/index.html" />
-        <option value="$PROJECT_DIR$/Lesson_6/index.scss" />
-        <option value="$PROJECT_DIR$/Lesson_6/index.js" />
-        <option value="$PROJECT_DIR$/module_1/package.json" />
-        <option value="$PROJECT_DIR$/Lesson_7/main.js" />
-        <option value="$PROJECT_DIR$/Lesson_6/package.json" />
-        <option value="$PROJECT_DIR$/Lesson_7/package.json" />
-        <option value="$PROJECT_DIR$/Lesson_7/index.css" />
-        <option value="$PROJECT_DIR$/Lesson_2/index.js" />
-        <option value="$PROJECT_DIR$/Lesson_3/index.js" />
         <option value="$PROJECT_DIR$/Lesson_4/second.js" />
         <option value="$PROJECT_DIR$/Lesson_7/index.js" />
         <option value="$PROJECT_DIR$/Lesson_7/color.js" />
@@ -204,17 +332,34 @@
         <option value="$PROJECT_DIR$/Lesson_11/index.html" />
         <option value="$PROJECT_DIR$/lesson_10/index.css" />
         <option value="$PROJECT_DIR$/Lesson_11/index.css" />
-        <option value="$PROJECT_DIR$/Lesson_12/index.css" />
         <option value="$PROJECT_DIR$/Lesson_12/index.js" />
         <option value="$PROJECT_DIR$/Lesson_12/main.js" />
-        <option value="$PROJECT_DIR$/Lesson_12/index.html" />
         <option value="$PROJECT_DIR$/Lesson_12/src/index.js" />
         <option value="$PROJECT_DIR$/Lesson_12/src/bar.js" />
-        <option value="$PROJECT_DIR$/Lesson_12/package.json" />
         <option value="$PROJECT_DIR$/Lesson_12/webpack.config.js" />
-        <option value="$PROJECT_DIR$/lessons/src/index.js" />
-        <option value="$PROJECT_DIR$/module_1/index.js" />
         <option value="$PROJECT_DIR$/module_1/index.html" />
+        <option value="$PROJECT_DIR$/module_1/index.js" />
+        <option value="$PROJECT_DIR$/Lesson_14/src/index.js" />
+        <option value="$PROJECT_DIR$/lessons/src/index.js" />
+        <option value="$PROJECT_DIR$/lessons/src/index.css" />
+        <option value="$PROJECT_DIR$/lessons/src/size.jsx" />
+        <option value="$PROJECT_DIR$/lessons/src/index.jsx" />
+        <option value="$PROJECT_DIR$/Lesson_13/index.css" />
+        <option value="$PROJECT_DIR$/Lesson_13/index.html" />
+        <option value="$PROJECT_DIR$/Lesson_13/index.jsx" />
+        <option value="$PROJECT_DIR$/Lesson_13/package-lock.json" />
+        <option value="$PROJECT_DIR$/Lesson_13/package.json" />
+        <option value="$PROJECT_DIR$/Lesson_12/index.jsx" />
+        <option value="$PROJECT_DIR$/Lesson_12/package.json" />
+        <option value="$PROJECT_DIR$/Lesson_12/package-lock.json" />
+        <option value="$PROJECT_DIR$/Lesson_12/index.css" />
+        <option value="$PROJECT_DIR$/Lesson_14/index.js" />
+        <option value="$PROJECT_DIR$/Lesson_14/package-lock.json" />
+        <option value="$PROJECT_DIR$/Lesson_14/package.json" />
+        <option value="$PROJECT_DIR$/Lesson_14/wrapinemoji.jsx" />
+        <option value="$PROJECT_DIR$/Lesson_14/timer.jsx" />
+        <option value="$PROJECT_DIR$/Lesson_12/index.html" />
+        <option value="$PROJECT_DIR$/Lesson_14/index.html" />
       </list>
     </option>
   </component>
@@ -227,8 +372,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="20" />
-    <option name="width" value="1940" />
-    <option name="height" value="1070" />
+    <option name="width" value="1939" />
+    <option name="height" value="1069" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -236,6 +381,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,35 +392,60 @@
             <path>
               <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="module_1" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lesson_12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lesson_14" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.breadcrumbs" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\РОБОТА\project\js_sandbox\Lesson_12" />
-      <recent name="D:\РОБОТА\project\js_sandbox\Lesson_11" />
-      <recent name="D:\РОБОТА\project\js_sandbox" />
-      <recent name="D:\РОБОТА\project\js_sandbox\lesson_9" />
-      <recent name="D:\РОБОТА\project\js_sandbox\module_1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\РОБОТА\project\js_sandbox\Lesson_12\src" />
       <recent name="D:\РОБОТА\project\js_sandbox\Lesson_6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\РОБОТА\project\js_sandbox\Lesson_14" />
+      <recent name="D:\РОБОТА\project\js_sandbox\Lesson_12" />
+      <recent name="D:\РОБОТА\project\js_sandbox\Lesson_13" />
+      <recent name="D:\РОБОТА\project\js_sandbox\Lesson_11" />
+      <recent name="D:\РОБОТА\project\js_sandbox" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -327,7 +498,10 @@
       <workItem from="1561053570387" duration="7101000" />
       <workItem from="1561131994396" duration="10125000" />
       <workItem from="1561401184120" duration="1868000" />
-      <workItem from="1561477608249" duration="7188000" />
+      <workItem from="1561477608249" duration="8913000" />
+      <workItem from="1562341790160" duration="826000" />
+      <workItem from="1562343075610" duration="9384000" />
+      <workItem from="1562615458126" duration="2419000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1557405658927</created>
@@ -623,11 +797,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561484437189</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="commit">
+      <created>1561485007796</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1561485007796</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135039000" />
+    <option name="totallyTimeSpent" value="149393000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -640,13 +821,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37114093" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3872483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -654,7 +834,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.29461756" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49798658" visible="true" weight="0.3385269" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49798658" weight="0.3385269" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50201344" side_tool="true" weight="0.2917847" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -730,153 +910,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson_4/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="101" column="3" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_1/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_2/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_3/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_3/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2795">
-          <caret line="224" lean-forward="true" selection-start-line="224" selection-end-line="224" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_1/main.js" />
-    <entry file="file://$PROJECT_DIR$/Lesson_1/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_2/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_1/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_8/index.js" />
-    <entry file="file://$PROJECT_DIR$/module_1/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_7/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_8/main.js" />
-    <entry file="file://$PROJECT_DIR$/Lesson_8/index.html" />
-    <entry file="file://$PROJECT_DIR$/lesson_9/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_10/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_10/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_10/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_9/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_10/index.scss" />
-    <entry file="file://$PROJECT_DIR$/lesson_9/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_11/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_10/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_11/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_11/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_11/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_12/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_12/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_12/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_12/index.js" />
     <entry file="file://$PROJECT_DIR$/Lesson_11/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -917,11 +951,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_12/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-867" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_12/src/bar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -933,13 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_10/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="55" column="21" selection-start-line="55" selection-end-line="56" />
         </state>
       </provider>
     </entry>
@@ -956,36 +978,6 @@
           <caret line="30" column="41" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="41" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_9/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_12/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_1/mask.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_10/dist/lesson_9.e31bb0bc.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -1013,17 +1005,241 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module_1/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module_1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_9/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_1/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_1/mask.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_10/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="55" column="21" selection-start-line="55" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_13/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_14/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/Lesson_14/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/lessons/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/src/index.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="389" column="8" selection-start-line="389" selection-start-column="8" selection-end-line="389" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/src/size.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/src/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="118" column="23" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_14/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_13/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_13/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_13/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_12/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="132" column="54" selection-start-line="132" selection-start-column="54" selection-end-line="132" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_12/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2091">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_12/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_12/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_13/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_14/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_14/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_14/wrapinemoji.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_14/timer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_14/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_13/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_12/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_14/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>

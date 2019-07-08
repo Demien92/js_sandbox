@@ -1,5 +1,5 @@
 {
-  "name": "lesson_12",
+  "name": "lesson_14",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -10,5 +10,9 @@
     "deploy": "gh-pages -d dist"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }

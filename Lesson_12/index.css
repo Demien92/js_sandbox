@@ -1,0 +1,95 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.title{
+    padding-bottom: 30px;
+    display: block;
+}
+.block_wrapper{
+    display: flex;
+    flex-flow: column;
+    margin-bottom: 20px;
+}
+.block_wrapper div{
+    text-align: left;
+}
+.block_wrapper div input{
+    margin: 0 5px 0 0;
+}
+
+#input{
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    padding: 0 15px;
+    font-size: 25px;
+    margin-bottom: 20px;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+#todo {
+    border-radius: 5px;
+    position: relative;
+    width: 400px;
+    background-color: #d3cdff;
+    font-size: 20px;
+    padding: 20px;
+}
+#list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+li {
+    text-align: start;
+    padding-left: 200px;
+}
+li div{
+    display: inline-block;
+    width: 180px;
+}
+li img {
+    width: 15px;
+    cursor: pointer;
+    opacity: 0.1;
+}
+li img:hover{
+    opacity: 0.5;
+}
+#checkAll {
+    color: grey;
+    font-size: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+#checkAll:hover {
+    color: black
+}
+
+.btn_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bottom {
+    display: flex;
+    border: 1px solid grey;
+    color: grey;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 30%;
+    width: 25%;
+    justify-content: center;
+}
+.bottom:hover {
+    border: 1px solid grey;
+    background: grey;
+    color: #fff;
+}
