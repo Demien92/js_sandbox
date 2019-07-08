@@ -7,6 +7,7 @@ function ColorBg() {
     return `rgb(${r}, ${g}, ${b})`;
 }
 
+
 function waitForScroll() {
     return new Promise(resolve => {
         window.addEventListener('scroll', resolve);
